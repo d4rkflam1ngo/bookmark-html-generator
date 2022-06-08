@@ -1,4 +1,4 @@
-# Jamie Pegg - 08/06/2022 - bookmark_html_generator.py
+# 08/06/2022 - bookmark_html_generator.py - https://github.com/d4rkflam1ngo/bookmark-html-generator/blob/main/script.py
 
 # Import required modules
 import time
